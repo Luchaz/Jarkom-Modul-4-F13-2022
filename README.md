@@ -356,3 +356,104 @@ NetID    : 0.0.0.0
 Netmask  : 0.0.0.0
 Next Hop : 10.58.0.65
 ```
+### Client
+
+#### LakeKorridor (24)
+```
+NetID           : 10.58.0.98
+Netmask         : 255.255.255.224
+Default Gateway : 10.58.0.97
+```
+#### LaubHills (397)
+```
+NetID           : 10.58.8.2
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.8.1
+```
+#### AppeetitRegion (625)
+```
+NetID           : 10.58.8.3
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.8.1
+```
+#### RohrRoad (1000)
+```
+NetID           : 10.58.12.2
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.12.1
+```
+#### SchwerMountains (5)
+```
+NetID           : 10.58.0.50
+Netmask         : 255.255.255.248
+Default Gateway : 10.58.0.49
+```
+#### BredtRegion (29)
+```
+NetID           : 10.58.0.67
+Netmask         : 255.255.255.224
+Default Gateway : 10.58.0.65
+```
+#### RiegelCanyon (510)
+```
+NetID           : 10.58.20.2
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.20.1
+```
+#### GranzChannel (254)
+```
+NetID           : 10.58.2.2
+Netmask         : 255.255.255.0
+Default Gateway : 10.58.2.1
+```
+#### GrobeForest (250)
+```
+NetID           : 10.58.3.2
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.3.1
+```
+#### TurkRegion (1000)
+```
+NetID           : 10.58.16.2
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.16.1
+```
+#### WilleRegion (63)
+```
+NetID           : 10.58.0.131
+Netmask         : 255.255.255.128
+Default Gateway : 10.58.0.129
+```
+#### RoyalCaptal (63)
+```
+NetID           : 10.58.0.130
+Netmask         : 255.255.255.128
+Default Gateway : 10.58.0.129
+```
+
+### Server
+
+#### Stark
+```
+NetID           : 10.58.0.46
+Netmask         : 255.255.255.252
+Default Gateway : 10.58.0.45
+```
+#### Richter
+```
+NetID           : 10.58.0.2
+Netmask         : 255.255.255.248
+Default Gateway : 10.58.0.1
+```
+#### Revolte
+```
+NetID           : 10.58.0.3
+Netmask         : 255.255.255.248
+Default Gateway : 10.58.0.1
+```
+#### Sein
+```
+NetID           : 10.58.20.3
+Netmask         : 255.255.252.0
+Default Gateway : 10.58.20.1
+```

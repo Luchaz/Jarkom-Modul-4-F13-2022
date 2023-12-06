@@ -9,7 +9,7 @@
 --------------------------------
 # Laporan Resmi
 
-Penggunaan metode subnettin ``VLSM``  pada ``Cisco Packet Tracer`` dan ``CIDR`` pada  ``GNS3``
+Penggunaan metode subnetting ``VLSM``  pada ``Cisco Packet Tracer`` dan ``CIDR`` pada  ``GNS3``
 
 ## VLSM
 

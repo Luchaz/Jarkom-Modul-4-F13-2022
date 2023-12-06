@@ -13,7 +13,7 @@
 
 ## Rute
 
-![rute-dasar]()
+
 
 ## VLSM - Cisco Packet Tracer
 
@@ -30,7 +30,7 @@
 
 ### VLSM Tree
 
-![vlsm-tree]()
+
 
 ### Hasil Pembagian
 

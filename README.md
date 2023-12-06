@@ -7,4 +7,34 @@
 
 
 --------------------------------
+## Topologi
 
+![topologi](images/topologi.png)
+
+## Rute
+
+![rute-dasar]()
+
+## VLSM - Cisco Packet Tracer
+
+### Pembagian IP
+
+#### Tabel kebutuhan
+
+
+
+#### Tabel Pembagian IP
+
+| No | Network ID | Subnet Mask | Host | Network |
+| - | - | - | - | - |
+
+### VLSM Tree
+
+![vlsm-tree]()
+
+### Hasil Pembagian
+
+| Subnet | Nama | IP |
+| - | - | - |
+
+## CIDR - GNS3
